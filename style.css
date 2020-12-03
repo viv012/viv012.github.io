@@ -1,9 +1,14 @@
+.custom-jumbotron{
+  background-image: url(./files/landscape1.jpg);
+}
+
 .bottom{
   height: 100px;
   color: white;
   left: 0;
  right: 0;
  width: 100%;
+ background-image: url(./files/landscape2.jpg)
 }
 
 /* Style all font awesome icons */
@@ -35,3 +40,4 @@
 .footer-adjust{
 padding-top: 20px;
 }
+
